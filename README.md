@@ -1,4 +1,4 @@
-# Billboard Hotchart100 scraping Code
+# Billboard Japanese Hotchart 100 scraping Code
 
  This is a repository which explains the scraping code of Billboard Japanese Hotchart100 data. This is unique code for Japanese Hotchart100. Other country chart page whose HTML is a little bit different. Maybe, this code does not work for other country.
  
